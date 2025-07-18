@@ -173,8 +173,37 @@ aws secretsmanager get-secret-value --secret-id MyTestSecret
 
 <img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/498d8656-559b-42a0-aea5-8bdc19ada7aa" />
 
+## EC2A-Pub:
 
+<img width="1900" height="916" alt="Image" src="https://github.com/user-attachments/assets/58b5960d-ccdd-4eda-bf19-c2335354e1c8" />
 
+## EC2B-Pvt:
+
+<img width="1892" height="927" alt="Image" src="https://github.com/user-attachments/assets/eec593ec-b960-4c6a-bc47-36663fa1089c" />
+
+## EC2B-Pvt-IAM:
+
+<img width="1893" height="926" alt="Image" src="https://github.com/user-attachments/assets/694d9545-7173-4fda-8695-723c7ab60601" />
+
+## Copy the pem file:
+
+<img width="1102" height="380" alt="Image" src="https://github.com/user-attachments/assets/04a36387-9826-4bda-b50d-c1c6b297754a" />
+
+## copied the pem file:
+
+<img width="735" height="328" alt="Image" src="https://github.com/user-attachments/assets/cefaf368-1359-4a08-a160-4c367f22a8db" />
+
+## EC2A-Pub S3:
+
+<img width="832" height="255" alt="Image" src="https://github.com/user-attachments/assets/1cc35644-1424-465e-97ce-0da99a16a193" />
+
+## pem file chmod permissions:
+
+<img width="1161" height="795" alt="Image" src="https://github.com/user-attachments/assets/b901a2a8-418a-48c0-96d9-7147ac2c9785" />
+
+## EC2B-Pvt-S3:
+
+<img width="788" height="261" alt="Image" src="https://github.com/user-attachments/assets/9ea55988-e571-4ab8-bdf0-d4aff7b001e0" />
 
 ## 🧹 Cleanup (Optional):
 Terminate EC2-A, EC2-B
@@ -196,3 +225,11 @@ Delete VPC VPC‑Endpoint‑Lab (subnets, IGW, etc.)
 
 [1]: https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html?utm_source=chatgpt.com "Gateway endpoints for Amazon S3 - Amazon Virtual Private Cloud"
 
+
+## Author:
+
+**Uday Sairam Kommineni**
+
+Mail-id: saikommineni5@gmail.com
+
+Linkedin: https://www.linkedin.com/in/uday-sai-ram-kommineni-uday-sai-ram/

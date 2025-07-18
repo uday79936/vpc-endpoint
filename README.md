@@ -137,6 +137,44 @@ aws secretsmanager get-secret-value --secret-id MyTestSecret
 
 ## Screenshot Images:
 
+## Cloudformation:
+
+<img width="1893" height="922" alt="Image" src="https://github.com/user-attachments/assets/bbcba8d2-7556-44a0-bb65-7c061577c51e" />
+
+## VPC Endpoint:
+
+<img width="1912" height="902" alt="Image" src="https://github.com/user-attachments/assets/2f10e92b-ca58-4365-85e1-2b289ae1ef25" />
+
+## VPC Endpoint-pub:
+
+<img width="1917" height="916" alt="Image" src="https://github.com/user-attachments/assets/7e16b300-5a0f-4377-b75e-508618db7a02" />
+
+## VPC Endpoint-pvt:
+
+<img width="1908" height="913" alt="Image" src="https://github.com/user-attachments/assets/51928071-4e11-49ff-85bf-f4154eefbb45" />
+
+## VPC Endpoint-pub-rt:
+
+<img width="1913" height="922" alt="Image" src="https://github.com/user-attachments/assets/148d1234-1780-44db-a892-1cfd1c79af21" />
+
+## VPC Endpoint-pvt-rt:
+
+<img width="1918" height="917" alt="Image" src="https://github.com/user-attachments/assets/1e6da0f2-1d69-46c4-b55e-c0b8cc957fd2" />
+
+## VPC Endpoint-igw:
+
+<img width="1912" height="912" alt="Image" src="https://github.com/user-attachments/assets/8cc00088-f9ff-4b60-9be7-c11d8b67ce06" />
+
+## VPC Endpoints:
+
+<img width="1917" height="917" alt="Image" src="https://github.com/user-attachments/assets/136f7ed1-ade2-427a-ab2b-d1093f925576" />
+
+## VPC Endpoint-route-tables:
+
+<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/498d8656-559b-42a0-aea5-8bdc19ada7aa" />
+
+
+
 
 ## 🧹 Cleanup (Optional):
 Terminate EC2-A, EC2-B

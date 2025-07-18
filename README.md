@@ -230,6 +230,8 @@ Delete VPC VPC‑Endpoint‑Lab (subnets, IGW, etc.)
 
 **Uday Sairam Kommineni**
 
+**AWS Cloud Practioner**
+
 Mail-id: saikommineni5@gmail.com
 
 Linkedin: https://www.linkedin.com/in/uday-sai-ram-kommineni-uday-sai-ram/

@@ -135,6 +135,11 @@ aws secretsmanager get-secret-value --secret-id MyTestSecret
 ```
 ✅ Should succeed via interface endpoint, using private DNS/IP.
 
+## We need to copy the file to the server securely by using command called:
+```
+scp - i pem.file pem.file ubuntu@10.0.0.21:~
+```
+
 ## Screenshot Images:
 
 ## Cloudformation:
